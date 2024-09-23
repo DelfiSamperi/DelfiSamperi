@@ -1,0 +1,15 @@
+# Hello! I'm Delfina. Full Stack Developer & UX Researcher
+
+_Rio Negro, Argentina_
+
+*HTML
+*CSS
+*JAVASCRIPT
+*REACT
+*REDUX
+*NODE JS.
+*EXPRESS JS.
+*POSTGRESQL
+*SEQUELIZE
+*MANEJO DE VERSIONES GIT /GIT HUB
+*FIGMA
