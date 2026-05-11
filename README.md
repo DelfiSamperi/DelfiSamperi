@@ -6,18 +6,18 @@ Hello! I'm a Full Stack Developer with focus on React and Node.js. My journey in
 
 ## Technologies I work with...
 
-*HTML
-*CSS
-*JAVASCRIPT
-*REACT
-*REDUX
-*NODE JS.
-*EXPRESS JS.
-*POSTGRESQL & MySQL
-*SEQUELIZE
-*GIT & GIT HUB
-*JAVA & SPRING BOOT
-*PYTHON
+| HTML 
+| CSS 
+| JAVASCRIPT 
+| REACT 
+| REDUX
+| NODE JS.
+| EXPRESS JS.
+| POSTGRESQL & MySQL
+| SEQUELIZE
+| GIT & GIT HUB
+| JAVA & SPRING BOOT
+| PYTHON
 
 ## Contact me
 As I continue my journey in Full Stack development, I am always on the lookout for collaborative projects and opportunities where I can contribute my skills and grow both personally and professionally. Let's connect and explore how we can create something amazing together!
